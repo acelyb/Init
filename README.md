@@ -1,5 +1,3 @@
 # Init
 
 Hello World!
-
-fuck
